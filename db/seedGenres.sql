@@ -1,0 +1,9 @@
+INSERT INTO genres (name) VALUES ('teatro');
+INSERT INTO genres (name) VALUES ('novela');
+INSERT INTO genres (name) VALUES ('poesia');
+INSERT INTO genres (name) VALUES ('fantasia');
+INSERT INTO genres (name) VALUES ('psicologia');
+INSERT INTO genres (name) VALUES ('historieta');
+INSERT INTO genres (name) VALUES ('terror');
+INSERT INTO genres (name) VALUES ('autoayuda');
+INSERT INTO genres (name) VALUES ('ficcion');
